@@ -1,3 +1,4 @@
+
 :root{--navy:#14213d;--blue:#1f4e8c;--orange:#f08a24;--teal:#1a9e8c;--purple:#6b4fbb;--red:#d64545;--ink:#1c1c1c;--muted:#4a515e;--line:#d9dee6;--soft:#f3f5f9;--soft2:#fff4e8;--max:1100px}
 *{box-sizing:border-box}html{scroll-behavior:smooth}
 body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;font-size:17px;line-height:1.55;color:var(--ink);background:#fff}
