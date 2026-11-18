@@ -60,3 +60,5 @@ footer.site{background:var(--soft);color:var(--muted);font-size:.9rem;padding:22
 small.meta{color:var(--muted)}
 
 .sr-only{position:absolute;left:-9999px}
+
+.pending{display:inline-block;font-size:.78rem;font-weight:700;letter-spacing:.5px;text-transform:uppercase;color:#8a4600;background:var(--soft2);border:1px solid #f0c89a;border-radius:999px;padding:1px 9px;white-space:nowrap}
