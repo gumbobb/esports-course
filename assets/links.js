@@ -22,7 +22,7 @@ window.COURSE_LINKS = {
   googleFormSyllabusCheck: "https://forms.gle/ogXcAvDrh2JskBe58",   // Google Form - syllabus and orientation check
 
   /* --- Fallbacks: one link covers all 15 weeks --- */
-  allWeeksCheck: "",             // Google Form used for every weekly check
+  allWeeksCheck: "https://forms.gle/8Bm9hD3g1wjYc5ZA8",             // Google Form used for every weekly check
   allWeeksDiscuss: "",           // Padlet used for every weekly discussion
 
   /* --- Per-week overrides (optional) --- */
