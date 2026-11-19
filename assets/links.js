@@ -19,7 +19,7 @@ window.COURSE_LINKS = {
   /* --- Orientation (Module 0) --- */
   padletQuestions: "https://padlet.com/bbhughes1215/questions-board-introduction-to-esports-management-s025kc7pje2r9u2n0dok",
   padletIntro: "https://padlet.com/bbhughes1215/introductions-introduction-to-esports-management-s025kc73uk7u6osbs8f1",
-  googleFormSyllabusCheck: "",   // Google Form - syllabus and orientation check
+  googleFormSyllabusCheck: "https://forms.gle/ogXcAvDrh2JskBe58",   // Google Form - syllabus and orientation check
 
   /* --- Fallbacks: one link covers all 15 weeks --- */
   allWeeksCheck: "",             // Google Form used for every weekly check
