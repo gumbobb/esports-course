@@ -23,7 +23,7 @@ window.COURSE_LINKS = {
 
   /* --- Fallbacks: one link covers all 15 weeks --- */
   allWeeksCheck: "https://forms.gle/8Bm9hD3g1wjYc5ZA8",             // Google Form used for every weekly check
-  allWeeksDiscuss: "",           // Padlet used for every weekly discussion
+  allWeeksDiscuss: "allWeeksDiscuss: "https://padlet.com/bbhughes1215/weekly-discussions-introduction-to-esports-management-s025lfyqdpzy8em9zpif",",           // Padlet used for every weekly discussion
 
   /* --- Per-week overrides (optional) --- */
   week1Check: "",   week1Discuss: "",
